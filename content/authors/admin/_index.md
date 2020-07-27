@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Admin
+role: test
 
 # Organizations/Affiliations
 organizations:
