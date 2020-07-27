@@ -21,9 +21,9 @@ height = "300px"
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = ""  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1. default 0.5
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1. default 0.5
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
@@ -35,7 +35,7 @@ height = "300px"
   title = "Left"
   content = "I am left aligned"
   align = "left"
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
