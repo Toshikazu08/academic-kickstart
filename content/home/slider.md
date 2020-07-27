@@ -36,6 +36,6 @@ height = "300px"
   content = "I am left aligned"
   align = "left"
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
