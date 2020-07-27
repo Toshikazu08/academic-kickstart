@@ -21,7 +21,7 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 education: test
-  courses: ""
+  courses: test
   - course: ""
     institution: ""
     year: ""
