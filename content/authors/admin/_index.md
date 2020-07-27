@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Nelson Bighetti
-title: Nelson Bighetti
+name: Toshikazu TAKANO 
+title: Toshikazu TAKANO 
 
 # Username (this should match the folder name)
 authors:
@@ -12,7 +12,7 @@ superuser: true
 role: Professor of Artificial Intelligence
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: "" 
   url: ""
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
