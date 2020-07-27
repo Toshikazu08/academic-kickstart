@@ -20,7 +20,7 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-education: ""
+education: test
   courses: ""
   - course: ""
     institution: ""
