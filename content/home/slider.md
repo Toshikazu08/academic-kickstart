@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "Due to the COV-19, "
+  content = "Due to the COV-19... "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,7 +34,7 @@ height = ""
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-# [[item]]
+[[item]]
   title = "Left"
   content = "I am left aligned :smile:"
   align = "left"
@@ -43,12 +43,4 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-# [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-+++
