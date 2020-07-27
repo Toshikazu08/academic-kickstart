@@ -20,10 +20,10 @@ subtitle = ""
   name = "R"
   # description = "90%"
   
-'[[feature]]'
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+# [[feature]]
+  # icon = "chart-line"
+  # icon_pack = "fas"
+  # name = "Statistics"
   # description = "100%"  
   
 [[feature]]
