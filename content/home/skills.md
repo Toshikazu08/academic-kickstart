@@ -27,6 +27,12 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  # description = "100%"  
+  
+[[feature]]
   icon = "adobe"
   icon_pack = "fab"
   name = "Creative Cloud"
