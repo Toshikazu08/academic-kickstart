@@ -10,7 +10,7 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "calc(100vh - 90px)"
+height = "calc(100vh - 10px)"
 # The prior figure is blank 
 
 # Slides.
