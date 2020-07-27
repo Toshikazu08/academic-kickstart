@@ -10,14 +10,14 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "calc(100vh - 20px)"
+height = "200px"
 # The prior figure is blank 
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "I am center aligned"
+  content = "COV-19, Work from home"
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -38,7 +38,7 @@ height = "calc(100vh - 20px)"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-[[item]]
+# [[item]]
   title = "Right"
   content = "I am right aligned :smile:"
   align = "right"
