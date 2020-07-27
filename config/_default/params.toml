@@ -100,7 +100,7 @@ phone = ""
 coordinates = {latitude = "35.514056", longitude = "137.830166"}
 
 # Directions for visitors to locate you.
-directions = Online inquiry only 
+directions = "Web inquiry only" 
 # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
