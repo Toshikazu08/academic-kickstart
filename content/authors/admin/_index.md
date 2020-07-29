@@ -16,7 +16,7 @@ organizations:
   url: ""
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .
-interest:
+interests:
 - Test1
 - Test2
 - Test3
