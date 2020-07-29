@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "apogee"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -100,20 +100,20 @@ phone = ""
 coordinates = {latitude = "35.514056", longitude = "137.830166"}
 
 # Directions for visitors to locate you.
-directions = "Web inquiry only" 
-# "Enter Building 1 and take the stairs to Office 200 on Floor 2"
-
+directions = "Mon & Thr: Office / Tue, Wed & Fri: Remote work"
+# "Enter Building 1 and take the stairs to Office 200 on Floor 2" 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Weekdays 8:30 to 17:15"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://docs.google.com/forms/d/e/1FAIpQLSe3PJlQ4jrcju4HUYSPAe2wRulYs0hkUJbwKakEwem8RyAMAg/viewform"
+appointment_url = "https://toshikazutakano.youcanbook.me"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+    {icon = "video", icon_pack = "fab", name = "Zoom Me (Please contact beforehand)", link = "https://us04web.zoom.us/j/2194729812?pwd=Z3gvY0VIMWM1ZDFNT2J2U0gwS0FqUT09"}, 
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discoursenolinkwokuwaerukoto"},
