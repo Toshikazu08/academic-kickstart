@@ -22,9 +22,9 @@ interests:
 - Test3
 education: 
   courses: 
-  - course: ""
-    institution: ""
-    year: ""
+  - icon = "r-project"
+    icon_pack = "fab"
+    name = "R"
   - course: ""
     institution: ""
     year: ""
