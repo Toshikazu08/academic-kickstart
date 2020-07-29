@@ -20,12 +20,12 @@ interests:
 - Test1
 - Test2
 - Test3
-education: 
+skillset: 
   courses: 
   - icon: "r-project"
     icon_pack: "fab"
     name: "R"
-  - course: ""
+  - course: "STATA"
     institution: ""
     year: ""
   - course: ""
