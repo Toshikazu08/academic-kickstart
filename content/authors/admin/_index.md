@@ -20,7 +20,7 @@ interests:
 - Test1
 - Test2
 - Test3
- : 
+ test: 
   courses: 
   - icon: "r-project"
     icon_pack: "fab"
