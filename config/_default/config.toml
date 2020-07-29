@@ -21,7 +21,7 @@ copyright = "test_disclaimer"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = "bingo"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
