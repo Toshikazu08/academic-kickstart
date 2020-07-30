@@ -49,7 +49,7 @@ subtitle = ""
   icon = "madlab"
   icon_pack = "custom"
   name = "Matlab"
-  description = "90%"
+# description = "90%"
 
 
 # Uncomment to use custom SVG icons.
