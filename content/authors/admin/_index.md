@@ -1,7 +1,7 @@
 ---
 # Display name
-name: TAKANO admin
-title: TAKANO admin
+name: TAKANO Toshikazu
+title: TAKANO Toshikazu
 # Username (this should match the folder name)
 authors:
 - admin
@@ -56,4 +56,4 @@ user_groups:
 - Visitors
 ---
 案件・連絡は本コンタクトフォームあてご連絡ください。単純な作業は、本人の机上に置いおいていただければ結構です。
-- 作業環境：　R/Phython/Stata/(Matlab) 
+- 環境：R/Phython/Stata/adobe/(Matlab) 
