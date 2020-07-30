@@ -50,9 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-DUe to the cov-19, 
-
+# DUe to the cov-19, 
 
 {{% alert note %}}
-This homepage section is a tools for remote work. Opinions are my own and not the views of any institutions.
+
 {{% /alert %}}
