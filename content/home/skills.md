@@ -46,10 +46,10 @@ subtitle = ""
 #  description = "100%"  
 
 [[feature]]
-  icon = "matlab"
+  icon = "beach-sunset"
   icon_pack = "custom"
-  name = "Matlab"
-  # description = "10%"
+  name = "Surfing"
+  description = "90%"
 
 
 # Uncomment to use custom SVG icons.
