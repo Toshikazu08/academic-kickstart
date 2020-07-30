@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 bio: My research interests include .
 interests:
-- Test1
-- Test2
-- Test3
+- Test1 "Econometrics"
+- Test2 "Machine learning"
+- Test3 "Quantitative analysis"
 education: 
   courses: 
   - icon: "r-project"
@@ -55,4 +55,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Under construction 日本語テスト
+案件・連絡は本コンタクトフォームあてご連絡ください。
+単純な作業は、本人の机上に置いおいていただければ結構です。
