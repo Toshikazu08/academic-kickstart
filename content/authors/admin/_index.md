@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 bio: My research interests include .
 interests:
-- Test1 "Econometrics"
-- Test2 "Machine learning"
-- Test3 "Quantitative analysis"
+- Econometrics
+- Machine learning
+- Quantitative analysis
 education: 
   courses: 
   - icon: "r-project"
