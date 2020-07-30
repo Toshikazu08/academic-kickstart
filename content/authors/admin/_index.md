@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Toshikazu TAKANO 
-title: Toshikazu TAKANO 
+name: TAKANO admin 
+title: TAKANO admin
 # Username (this should match the folder name)
 authors:
 - admin
@@ -55,4 +55,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Under construction
+Under construction 日本語テスト
