@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -97,10 +97,10 @@ phone = ""
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.514056", longitude = "137.830166"}
+# coordinates = {latitude = "35.514056", longitude = "137.830166"}
 
 # Directions for visitors to locate you.
-directions = "Mon & Thr: Office / Tue, Wed & Fri: Remote work"
+directions = "Mon & Thu: Office work / Tue, Wed & Fri: Remote work"
 # "Enter Building 1 and take the stairs to Office 200 on Floor 2" 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
