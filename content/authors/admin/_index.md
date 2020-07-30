@@ -20,7 +20,7 @@ interests:
 - Econometrics
 - Machine learning
 - Quantitative analysis
-education: 
+educatio: 
   courses: 
   - icon: "r-project"
     icon_pack: "fab"
