@@ -20,6 +20,7 @@ interests:
 - Econometrics
 - Machine learning
 - Quantitative analysis
+- Developing economics
 educatio: 
   courses: 
   - icon: "r-project"
