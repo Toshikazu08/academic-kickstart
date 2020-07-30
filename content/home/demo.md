@@ -50,8 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-# DUe to the cov-19, 
+DUe to the cov-19, 
 
 {{% alert note %}}
-
+Mainly work remotely
 {{% /alert %}}
