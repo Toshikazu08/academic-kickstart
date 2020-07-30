@@ -46,9 +46,9 @@ subtitle = ""
 #  description = "100%"  
 
 [[feature]]
-  icon = "beach-sunset"
+  icon = "madlab"
   icon_pack = "custom"
-  name = "Surfing"
+  name = "Matlab"
   description = "90%"
 
 
