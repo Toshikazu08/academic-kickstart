@@ -114,7 +114,8 @@ appointment_url = "https://toshikazutakano.youcanbook.me"
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
     {icon = "video", icon_pack = "fas", name = "Zoom Me (Please contact beforehand)", link = "https://us04web.zoom.us/j/2194729812?pwd=Z3gvY0VIMWM1ZDFNT2J2U0gwS0FqUT09"}, 
-    {icon = "skype", icon_pack = "fab", name = "Skype Me (Under construction)", link = "skype:live:etthm08"},
+    {icon = "skype", icon_pack = "fab", name = "Skype Me (Under construction)", link = "https://join.skype.com/invite/YyPffvzV4jLT"},
+  # skype:live:etthm08"
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discoursenolinkwokuwaerukoto"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
