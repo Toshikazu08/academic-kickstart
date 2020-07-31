@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-
+Working from home
 {{% /alert %}}
