@@ -16,8 +16,8 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "Test"
+  title = "Test"
+  content = "Under construction"
   align = "center"  # Choose `center`, `left`, or `right`.
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -32,8 +32,8 @@ height = "500px"
   cta_icon_pack = "fas"
   cta_icon = "question"    # "graduation-cap"
 [[item]]
-  title = "Left"
-  content = "I am left aligned"
+  title = "Test"
+  content = "Under construction"
   align = "left"
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
