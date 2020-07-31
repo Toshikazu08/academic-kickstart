@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 bio: My research interests include .
 interests:
 - Quantitative social science
-- Development economics
-- Applied econometrics
 - Machine learning
+- Applied econometrics
+- Development economics
 education: 
   courses: 
   - course: "M.A. in International Development"
