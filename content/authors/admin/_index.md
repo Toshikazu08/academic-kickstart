@@ -17,10 +17,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 bio: My research interests include .
 interests:
-- Econometrics
+- Quantitative social science
+- Development economics
+- Applied econometrics
 - Machine learning
-- Quantitative analysis
-- Developing economics
 educatio: 
   courses: 
   - icon: "r-project"
