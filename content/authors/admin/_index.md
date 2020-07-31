@@ -21,15 +21,12 @@ interests:
 - Development economics
 - Applied econometrics
 - Machine learning
-educatio: 
+education: 
   courses: 
-  - icon: "r-project"
-    icon_pack: "fab"
-    name: "R"
-  - course: ""
+  - course: "M.A. in International Development"
     institution: ""
     year: ""
-  - course: ""
+  - course: "B.A. in Economics"
     institution: ""
     year: ""
 # Social/Academic Networking
@@ -56,5 +53,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-在宅勤務に伴う問合せホームページです。お問合せは本コンタクトフォームあてご連絡ください（単純作業は、当方の机上に指示メモと一緒に置いてください）
-- 環境：R/Phython/Stata/Adobe/(Matlab) 
+在宅勤務のWeb面談やファーストコンタクト用のプラットフォーム的な位置づけです。お問合せは等は最下部のフォームあてご連絡ください（単純作業は、当方の机上に指示メモと一緒に置いてください）。
+- 環境：R / Phython / Stata / Adobe / (Matlab) 
