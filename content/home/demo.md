@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Mainly work remotely
+
 {{% /alert %}}
