@@ -34,7 +34,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: envelope 
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
@@ -54,5 +54,5 @@ user_groups:
 - Visitors
 ---
 - 在宅勤務時のWeb相談や初回コンタクトのプラットフォーム的な位置づけです。お問合せ等は最下部のフォームあてご連絡ください。
--（単純作業は、当方の机上に指示メモと一緒に置いてください）
+- （単純作業は、当方の机上に指示メモと一緒に置いてください）
 - 環境：R / Stata / Python / (Matlab) 
