@@ -29,7 +29,7 @@ subtitle = ""
   gradient_end = "ForestGreen"
   
   # Background image.
-  image = "bubbles-wide.jpg"  # Name of image in `static/img/`.
+  # image = "bubbles-wide.jpg"  # Name of image in `static/img/`.
   image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "30px", "0"]
+  padding = ["15px", "0", "15px", "0"]
 
 [advanced]
  # Custom CSS. 
