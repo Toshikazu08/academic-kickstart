@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "White"
-  gradient_end = "White"
+ # gradient_start = "White"
+ # gradient_end = "White"
   
   # Background image.
   # image = "bubbles-wide.jpg"  # Name of image in `static/img/`.
