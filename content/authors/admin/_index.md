@@ -17,10 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 bio: My research interests include .
 interests:
-- Quantitative social science
-- Machine learning
-- Applied econometrics
-- Development economics
+- Quantitative Social Science
+- Regional & Spatial Economics
+- Development Economics
 education: 
   courses: 
   - course: "M.A. in International Development"
@@ -29,6 +28,9 @@ education:
   - course: "B.A. in Economics"
     institution: ""
     year: ""
+  - course: "Certificate in International Studies"
+    institution: ""
+    year: "" 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -53,5 +55,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-- 在宅勤務時のWeb相談や初回コンタクトのプラットフォーム的な位置づけです。お問合せ等は最下部のフォームあてご連絡ください（単純作業は、当方の机上に指示メモと一緒に置いてください）。
-- 環境：R / Stata / Python / (Matlab) 
+- This is a platform for interviewing and initial contact when working from home. If you have any questions, please contact me using the form at the bottom of the page (for simple tasks, please leave a note with instructions on my desk).
+- Strong: R, Stata
+- Developing: Python, Matlab 
