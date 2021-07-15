@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Test"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "s.html"
+hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
