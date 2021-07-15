@@ -10,7 +10,7 @@ superuser: true
 # Role/position
 role: Admin
 # Organizations/Affiliations
-organizations:
+organizations: Nagano-Pref, Japan 
 - name: "" 
   url: ""
 # Short bio (displayed in user profile at end of posts)
@@ -55,6 +55,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-- This is a platform for interviewing and initial contact when working from home. If you have any questions, please contact me using the form at the bottom of the page (for simple tasks, just leave a note with instructions on my desk).
+- This is a platform for appointments while working from home. If you have any questions, please contact me using the form below.
 - Strong: R, Stata
 - Developing: Python, Matlab 
